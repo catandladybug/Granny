@@ -8,3 +8,5 @@
  -Added start screen
  -Added item pickup
  -Added question screen
+# Resources/References
+ Timer: https://www.youtube.com/watch?v=POq1i8FyRyQ&t=135s Platformer and Item Pickup: https://www.youtube.com/playlist?list=PLrnPJCHvNZuCVTz6lvhR81nnaf1a-b67U
