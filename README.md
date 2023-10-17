@@ -1,5 +1,8 @@
 # Granny
  Play Me: https://catandladybug.github.io/Granny/
+# Updates V5
+ -Platformer level design
+ -Added randomized clue spawn locations
 # Updates V4
  -Added dialogue system
  -Added character sprites
