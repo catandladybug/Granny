@@ -1,5 +1,10 @@
 # Granny
  Play Me: https://catandladybug.github.io/Granny/
+ # Updates V6
+ -Added dialogue system to end scene
+ -Made names switch depending on who's speaking
+ -Created story and clues
+ -Added way to view stories during selection
 # Updates V5
  -Platformer level design
  -Added randomized clue spawn locations
