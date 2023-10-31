@@ -1,5 +1,9 @@
 # Granny
  Play Me: https://catandladybug.github.io/Granny/
+  # Updates V6
+ -Added updated dialogue system to intro scene
+ -New background for intro scene
+ -Testing new sprites
  # Updates V6
  -Added dialogue system to end scene
  -Made names switch depending on who's speaking
