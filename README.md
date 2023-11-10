@@ -1,6 +1,12 @@
 # Granny
  Play Me: https://catandladybug.github.io/Granny/
-  # Updates V6
+  # Updates V8
+ -Fixed wording error on choice screen
+ -Added character sprites
+ -Added some backgrounds
+ -Updated choice scene visuals
+ -Updated view stories screen
+  # Updates V7
  -Added updated dialogue system to intro scene
  -New background for intro scene
  -Testing new sprites
