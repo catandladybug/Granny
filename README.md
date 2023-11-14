@@ -4,6 +4,7 @@
  -Added BG to mind section   
  -Added player sprite   
  -Added clue sprites
+ -Zoomed out camera for platformer
   # Updates V8
  -Fixed wording error on choice screen   
  -Added character sprites   
