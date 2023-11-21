@@ -1,13 +1,13 @@
 # Granny
  Play Me: https://catandladybug.github.io/Granny/
- #Updates V10
+ #Updates V10     
  -Added title screen    
  -Added background to first dialogue    
  -Added dialogue and sprites to final scene    
   # Updates V9
  -Added BG to mind section   
  -Added player sprite   
- -Added clue sprites
+ -Added clue sprites     
  -Zoomed out camera for platformer
   # Updates V8
  -Fixed wording error on choice screen   
