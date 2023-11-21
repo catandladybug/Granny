@@ -1,5 +1,9 @@
 # Granny
  Play Me: https://catandladybug.github.io/Granny/
+ #Updates V10
+ -Added title screen    
+ -Added background to first dialogue    
+ -Added dialogue and sprites to final scene    
   # Updates V9
  -Added BG to mind section   
  -Added player sprite   
