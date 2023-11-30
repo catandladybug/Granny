@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: b3f948342eaa8e94b8ebf4eb08d0adee
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Playpen Sans
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 13ecf1486b4f3754990d28d4db9369e0, type: 3}
+  - {fileID: 12800000, guid: c28a28c295714984db2f6c3136c90551, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
