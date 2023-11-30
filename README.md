@@ -1,6 +1,11 @@
 # Granny
- Play Me: https://catandladybug.github.io/Granny/
- #Updates V10     
+ Play Me: https://catandladybug.github.io/Granny/   
+ # Updates V11   
+ -Updated platformer visuals  
+ -Restructured level   
+ -Changed how background follows camera   
+ -Platformer ends aftr collecting four clues   
+ # Updates V10     
  -Added title screen    
  -Added background to first dialogue    
  -Added dialogue and sprites to final scene    
