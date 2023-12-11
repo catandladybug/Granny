@@ -82,6 +82,15 @@ public class Dialogue : MonoBehaviour
             textComponent.text = string.Empty;
             StartCoroutine(TypeLine());
         }
+        else if (index < 6 && index > 3)
+        {
+            nameText.text = "Grammy";
+            granny2.SetActive(true);
+            you2.SetActive(false);
+            index++;
+            textComponent.text = string.Empty;
+            StartCoroutine(TypeLine());
+        }
         else
         {
             gameObject.SetActive(false);

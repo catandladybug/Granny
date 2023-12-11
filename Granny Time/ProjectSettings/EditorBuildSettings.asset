@@ -8,6 +8,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Intro.unity
     guid: eba706aca429d224495e857cbc00c83d
+  - enabled: 0
+    path: Assets/Scenes/Enter Brain.unity
+    guid: 641f8e40906fd7f46976449b306986b4
   - enabled: 1
     path: Assets/Scenes/Mind Palace.unity
     guid: 2cda990e2423bbf4892e6590ba056729

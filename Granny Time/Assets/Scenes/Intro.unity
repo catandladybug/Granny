@@ -985,10 +985,12 @@ MonoBehaviour:
   bg: {fileID: 67964705}
   lines:
   - Excuse me ma'am.
-  - How can I help you?
-  - I can't remember anything!
-  - Go dig around in my brain sweetie!
-  - Ok I guess
+  - Are you the lady who needs help remembering?
+  - Yes please! These people want my money
+  - but I can't remember who I'm related to!
+  - I can go take a look inside your brain if you want.
+  - That would be lovely!
+  - Just look for the clues inside my memory!
   textSpeed: 0.009
 --- !u!114 &1434412077
 MonoBehaviour:
